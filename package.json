@@ -1,0 +1,23 @@
+{
+  "name": "ngrx-store-todo",
+  "version": "1.0.0",
+  "description": "ngrx/store playground for angular state management",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laholmes/ngrx-store-todo.git"
+  },
+  "author": "laurence holmes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laholmes/ngrx-store-todo/issues"
+  },
+  "homepage": "https://github.com/laholmes/ngrx-store-todo#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  }
+}
